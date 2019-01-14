@@ -83,4 +83,4 @@ Copyright (c) 2019, Oracle and/or its affiliates. All rights reserved.
 
 Licensed under the Universal Permissive License 1.0 or Apache License 2.0.
 
-See [LICENSE](../LICENSE.md) for more details.
+See [LICENSE](https://bitbucket.aka.lgl.grungy.us/projects/TFS/repos/terraform-oci-apache-http/browse/LICENSE.md?at=apache_http) for more details.
